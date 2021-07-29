@@ -1,4 +1,5 @@
-### Hi there 👋
+### Here 
+
 
 <!--
 **wjs2063/wjs2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...                            |
 - ⚡ Fun fact: ...                             
 
-![image](https://user-images.githubusercontent.com/76778082/127531797-61d53105-62ab-4d45-9bae-95ac2fb2f0f6.png)
+
+<img width="300" alt="스크린샷 2021-07-30 오전 1 40 58" src="https://user-images.githubusercontent.com/76778082/127531937-b8f9d16d-49e9-4c43-9ac9-55f4c96e2b0a.png">
