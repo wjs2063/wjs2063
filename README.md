@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...                             
 
 
-<img width="781" alt="스크린샷 2021-07-30 오전 1 40 58" src="https://user-images.githubusercontent.com/76778082/127531937-b8f9d16d-49e9-4c43-9ac9-55f4c96e2b0a.png">
+![image](https://user-images.githubusercontent.com/76778082/127534511-b81653e7-aad1-4e4f-b1ae-02f65cd294b4.png)
+
