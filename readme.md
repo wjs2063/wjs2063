@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=100&section=header&text=JaehyeonJeon&fontColor=FA991C)
+![header](https://img.shields.io/badge/<Career>-<JaehyeonJeon>-<blue>)
 
 
 ### Major in Mathematics and doble major in Computer science,
