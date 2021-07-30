@@ -1,7 +1,7 @@
 
 ### Here
 ### Major in Mathematics and doble major in Computer science,
-### Be interested in ML,DL,GAN
+### Be interested in ML,DL(video,picture),GAN
 
 <!--
 **wjs2063/wjs2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
