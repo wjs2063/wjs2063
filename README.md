@@ -1,7 +1,8 @@
 
-### Here
 ### Major in Mathematics and doble major in Computer science,
-### Be interested in ML,DL(video,picture),GAN
+### Image DeepLearning(Super resolution)
+### Time series prediction
+
 
 <!--
 **wjs2063/wjs2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
