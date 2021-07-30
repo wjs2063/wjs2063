@@ -28,7 +28,7 @@ contact->jahy2063@gmail.com
 
 
 
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...          KNU Video intelligence Lab(intern)
