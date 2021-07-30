@@ -1,3 +1,4 @@
+
 ### Here
 ### Major in Mathematics and doble major in Computer science,
 ### Be interested in ML,DL,GAN
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...                            |
 - ⚡ Fun fact: ...                             
 
+<img width="468" alt="스크린샷 2021-07-30 오후 1 37 14" src="https://user-images.githubusercontent.com/76778082/127600971-2a978bfe-3f2c-4f78-b588-eb4d99ac3fa7.png">
+
+현재는 APPLE-> SRGANSTER 로 아이디를변경함
