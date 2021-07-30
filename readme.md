@@ -2,6 +2,8 @@
 ### Major in Mathematics and doble major in Computer science,
 ### Image DeepLearning(Super resolution)
 ### Time series prediction
+### Interested in  everything which can use ML,DL
+
 
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%)
 2. Postech,H energy 주관 태양광발전예측경진대회참가
