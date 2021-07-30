@@ -14,7 +14,7 @@ contact->jahy2063@gmail.com
 
 
 
-
+Can use: Neural prophet, tensorflow , xgboost,catboost, Gan
 <!--
 **wjs2063/wjs2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
