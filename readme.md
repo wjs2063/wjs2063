@@ -8,6 +8,9 @@
 3. KNU VIDEO LAB Point CLoud, super resolution project 진행중..
 
 
+contact->jahy2063@gmail.com
+
+
 
 
 <!--
