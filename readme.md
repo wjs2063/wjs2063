@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome% Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=100&section=header&text=Welcome%&fontSize=50&rotate=9&fontColor=FA991C)
 
 
 ### Major in Mathematics and doble major in Computer science,
