@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=100&section=header&text=Welcome%&fontSize=50&rotate=9&fontColor=FA991C)
+![header](https://capsule-render.vercel.app/api?type=slice&color=A3DCBE&height=100&section=header&text=JaehyeonJeon&fontColor=FA991C)
 
 
 ### Major in Mathematics and doble major in Computer science,
@@ -7,9 +7,20 @@
 ### Interested in  everything which can use ML,DL
 
 
-1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%)
+1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
 2. Postech,H energy 주관 태양광발전예측경진대회참가
 3. KNU VIDEO LAB Point CLoud, super resolution project 진행중..
+
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
+
+
 
 
 contact->jahy2063@gmail.com
