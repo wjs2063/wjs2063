@@ -1,7 +1,7 @@
 ![header](https://img.shields.io/badge/<Career>-<JaehyeonJeon>-<blue>)
 
 
-### Major in Mathematics and double major in Computer science,
+### Major in Mathematics and double major in Computer science
 ### Image DeepLearning(Super resolution)
 ### Time series prediction
 ### Interested in  everything which can use ML,DL
