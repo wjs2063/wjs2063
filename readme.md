@@ -8,7 +8,7 @@
 
 
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
-2. Postech,H energy 주관 태양광발전예측경진대회참가
+2. Postech,H energy 주관 OIBC태양광발전예측경진대회참가
 3. KNU VIDEO LAB Point Cloud, super resolution project 진행중..
 
 
