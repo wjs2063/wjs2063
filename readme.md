@@ -4,7 +4,7 @@
 <img src = "https://user-images.githubusercontent.com/76778082/127766313-5f542e92-4693-4656-96cf-3e0f3714b555.png" width="10%" height="10%">
 
 # Intruduce
-안녕하십니까. 모르면 끝까지 파고들어서 알아내는  AI 개발자 전재현입니다
+안녕하십니까. 모르면 끝까지 파고들어서 알아내는 예비 AI 개발자 전재현입니다
 
 
 
