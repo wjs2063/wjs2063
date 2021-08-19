@@ -1,7 +1,7 @@
 
 ![header](https://img.shields.io/badge/<Career>-<JaehyeonJeon>-<blue>)
 
-<img src = "https://user-images.githubusercontent.com/76778082/127766313-5f542e92-4693-4656-96cf-3e0f3714b555.png" width="10%" height="10%">
+
 
 # Intruduce
 
