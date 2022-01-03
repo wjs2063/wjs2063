@@ -15,7 +15,7 @@
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
 2. Postech,H energy 주관 OIBC 태양광발전량예측
 3. GAN 을 활용한 이미지 빛번짐 제거
-4.  VIDEO LAB - Point Cloud, super resolution project 진행중..
+4. NH투자증권 주식보유기간예측 (상위 18% 47/266)
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
