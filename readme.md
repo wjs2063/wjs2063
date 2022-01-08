@@ -3,7 +3,7 @@
 
 
 
-# Intruduce
+# Introuduce
 
 
 #### Major in Mathematics and double major in Computer science
