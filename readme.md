@@ -10,12 +10,17 @@
 #### Image DeepLearning(Super resolution)
 #### Time series prediction
 #### Interested in  everything which can use ML,DL
+#### PYTHON BACKEND 
+#### AMAZON WEB SERVICE
+#### DEVOPS 
 
 ### Project
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
 2. Postech,H energy 주관 OIBC 태양광발전량예측
 3. GAN 을 활용한 이미지 빛번짐 제거
 4. NH투자증권 주식보유기간예측 (상위 18% 47/266)
+5. D JANGO 를 이용한 웹 서비스 구축
+6. AWS EC2 를 이용한 서버 구축,Auto Scaling,배포,모니터링,관리자동화,DEVOPS 
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
