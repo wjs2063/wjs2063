@@ -9,7 +9,6 @@
 #### Major in Mathematics and double major in Computer science
 #### Image DeepLearning(Super resolution)
 #### Time series prediction
-#### Interested in  everything which can use ML,DL
 #### PYTHON BACKEND 
 #### AMAZON WEB SERVICE
 #### DEVOPS 
