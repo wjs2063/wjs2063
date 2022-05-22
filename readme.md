@@ -11,7 +11,6 @@
 #### Time series prediction
 #### PYTHON BACKEND 
 #### AMAZON WEB SERVICE
-#### DEVOPS 
 
 ### Project
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
