@@ -17,7 +17,7 @@
 2. Postech,H energy 주관 OIBC 태양광발전량예측
 3. GAN 을 활용한 이미지 빛번짐 제거
 4. NH투자증권 주식보유기간예측 (상위 17% 47/266)
-5. Apache-airflow 를 이용한 로또데이터 
+5. Apache-airflow 를 이용한 로또데이터 자동화  
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
