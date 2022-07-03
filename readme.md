@@ -18,7 +18,7 @@
 3. GAN 을 활용한 이미지 빛번짐 제거
 4. NH투자증권 주식보유기간예측 (상위 17% 47/266)
 5. Apache-airflow 를 이용한 로또데이터 자동화  
-6. Apache-airflow와 기상청OPEN-API를 이용한 날씨정보 저장 
+6. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 자동화 구축
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
