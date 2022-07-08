@@ -21,7 +21,7 @@
 4. NH투자증권 주식보유기간예측 (상위 17% 47/266)
 5. Apache-airflow 를 이용한 로또데이터 자동화  
 6. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 자동화 구축
-
+7. Apache-airflow를 이용한 wikipedia 시간당 회사별 pageview 파이프라인 구축 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
