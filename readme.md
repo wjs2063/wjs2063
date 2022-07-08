@@ -7,10 +7,12 @@
 
 
 #### Major in Mathematics and double major in Computer science
+#### APACHE-AIRFLOW DATA Engineering
 #### Image DeepLearning(Super resolution)
 #### Time series prediction
 #### PYTHON BACKEND 
 #### AMAZON WEB SERVICE
+#### 
 
 ### Project
 1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)
