@@ -13,7 +13,8 @@
 5. Apache-airflow 를 이용한 로또데이터 자동화                            ->  https://github.com/wjs2063/lotto_data-automation-with-airflow
 6. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 자동화 구축           -> https://github.com/wjs2063/weathercondition-pipline 
 7. Apache-airflow를 이용한 wikipedia 시간당 회사별 pageview 파이프라인 구축( Tableau를 사용한 시각화)  ->  https://github.com/wjs2063/-airflow-wikipedia-pageview
-8. Apache-Kafka 를 이용한 실시간 채팅프로그램 구현  
+8. Apache-Kafka 를 이용한 실시간 채팅프로그램 구현                          
+9. Apache-airflow,Flask 를 이용한 영화추천시스템 (개발중)                   -> https://github.com/wjs2063/MovieRecommandSystem.
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
