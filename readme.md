@@ -33,7 +33,7 @@
  
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...            Data Engineering,Automation,MachineLearning,DeepLearning,GAN(super resolution)
+- 🌱 I’m currently learning ...            Data Engineering,Dataplatform,Automation,MachineLearning,DeepLearning,GAN(super resolution)
 - 👯 I’m looking to collaborate on ...     Data Engineering,Dataplatform,MachingLearning,DeepLearning,
 - 🤔 I’m looking for help with ...            
 - 💬 Ask me about ... what you need           
