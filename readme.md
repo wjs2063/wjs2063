@@ -28,16 +28,13 @@
 
 
 
-contact->jahy2063@gmail.com
-
-
 
 
  
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...            Data Engineering,Automation,MachineLearning,DeepLearning,GAN(super resolution)
-- 👯 I’m looking to collaborate on ...     MachingLearning,DeepLearning,GAN workers
+- 👯 I’m looking to collaborate on ...     Data Engineering,Dataplatform,MachingLearning,DeepLearning,
 - 🤔 I’m looking for help with ...            
 - 💬 Ask me about ... what you need           
 - 📫 How to reach me: ...                  fill free to contact me  jahy2063@gmail.com
