@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=MYSQL&logoColor=white">
 <img src="https://img.shields.io/badge/Tensorflow-FF7300?style=for-the-badge&logo=Tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-569A31?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
 
 
