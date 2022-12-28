@@ -28,14 +28,26 @@
 
 
 
-
  
 
+## [경력]
+ 
  
 ### [ 네이버웍스 인턴 ] : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
 
 
 
+ <br></br>
+ <br></br>
+ <br></br>
+ <br></br>
+
+  
+  
+  
+ 
+ 
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjs2063&show_icons=true&theme=dark)
 
 
