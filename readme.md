@@ -12,8 +12,9 @@
 4. NH투자증권 주식보유기간예측 본선진출                    ->  https://github.com/wjs2063/DAYCON-NH-INVESTMENT ( id : SR--GANGSTER  )
 5. Apache-airflow 를 이용한 로또데이터 자동화                            ->  https://github.com/wjs2063/lotto_data-automation-with-airflow
 6. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 ETL 파이프라인 구축    -> https://github.com/wjs2063/weathercondition-pipline 
-7. Apache-Kafka 를 이용한 실시간 채팅프로그램 구현 (개발중)                  -> https://github.com/wjs2063/python-chattingprogram                         
-8. Apache-airflow,Flask 를 이용한 영화추천시스템 (개발중)                  -> [https://github.com/wjs2063/MovieRecommandSystem.](https://github.com/wjs2063/MovieRecommandSystem.)
+7. fastapi를 이용한 웹프로젝트( frontend 와 협업)
+8. Apache-Kafka 를 이용한 실시간 채팅프로그램 구현 (개발중)                  -> https://github.com/wjs2063/python-chattingprogram                         
+9. Apache-airflow,Flask 를 이용한 영화추천시스템 (개발중)                  -> [https://github.com/wjs2063/MovieRecommandSystem.](https://github.com/wjs2063/MovieRecommandSystem.)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
