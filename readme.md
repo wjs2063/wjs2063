@@ -42,7 +42,7 @@
 ## [경력]
  
  
-### [ 네이버 인턴 ](Naver Works) : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
+### [ NAVER 인턴 ](Naver Works) : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
 
 
 
