@@ -15,7 +15,7 @@
 7. fastapi를 이용한 웹프로젝트( frontend 와 협업)
 8. Apache-Kafka 를 이용한 실시간 채팅프로그램 구현 (개발중)                  -> https://github.com/wjs2063/python-chattingprogram                         
 9. Apache-airflow,Flask 를 이용한 영화추천시스템 (개발중)                  -> [https://github.com/wjs2063/MovieRecommandSystem.](https://github.com/wjs2063/MovieRecommandSystem.)
-10. ALGO - WebPage 제작 ( with frontend )                           -> https://github.com/wjs2063/ALGO-Webpage-DOCS ( API 문서 소스코드현재비공개)
+10. ALGO - WebPage 제작 ( with frontend @Baek )                           -> https://github.com/wjs2063/ALGO-Webpage-DOCS ( API 문서 소스코드현재비공개)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
