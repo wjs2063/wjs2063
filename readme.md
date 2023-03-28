@@ -49,9 +49,7 @@
  <br></br>
  <br></br>
 
-  
-  
-  
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjs2063&&show_icons=true&theme=dark)
  
  
 
