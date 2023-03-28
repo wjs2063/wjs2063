@@ -54,6 +54,6 @@
   
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wjs2063)
+
 
 contact : wjs2063@naver.com
