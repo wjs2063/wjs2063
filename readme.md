@@ -38,6 +38,8 @@ https://blog.naver.com/jahy5352
  
  https://github.com/wjs2063/leethub
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jahy5352)](https://solved.ac/jahy5352/)
+
 
 ## [경력]
  
