@@ -15,7 +15,6 @@ https://blog.naver.com/jahy5352
 5. Apache-airflow 를 이용한 로또데이터 자동화                            
 6. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 ETL 파이프라인 구축    
 7. fastapi를 이용한 웹프로젝트( frontend 와 협업 Baek)                        
-8. ALGO - WebPage 제작     
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
