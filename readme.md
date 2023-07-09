@@ -43,7 +43,7 @@ https://blog.naver.com/jahy5352
 ## [경력]
  
  
-### [ NAVER Works인턴 ]\ : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
+### [ NAVER Works인턴 ] : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
 
 
 
