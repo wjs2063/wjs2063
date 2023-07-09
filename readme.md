@@ -18,13 +18,11 @@ https://blog.naver.com/jahy5352
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/Nginx-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=MYSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Tensorflow-FF7300?style=for-the-badge&logo=Tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
-
 
 
 
