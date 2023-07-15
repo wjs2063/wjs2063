@@ -1,18 +1,6 @@
 
 ![header](https://img.shields.io/badge/<Career>-<JaehyeonJeon>-<blue>)
-
-
-
-### Blog
-https://blog.naver.com/jahy5352
-
-
-### Project
-1. 데이콘인공지능 비트트레이더 시즌2 참가(상위 5%,4/91)     (id: APPLE)                     
-2. GAN 을 활용한 이미지 빛번짐 제거                                      
-3. NH투자증권 주식보유기간예측 본선진출                   ( id : SR--GANGSTER  )                          
-4. Apache-airflow와 기상청OPEN-API를 이용한 날씨데이터 ETL 파이프라인 구축    
-5. fastapi를 이용한 웹프로젝트                      
+                 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -41,18 +29,7 @@ https://blog.naver.com/jahy5352
 
 
 ## [경력]
- 
- 
-### [ NAVER Works인턴 ] : 2022.10.17 ~ 2022.12.09  ( Nginx module development )
-
-
-
- <br></br>
- <br></br>
- <br></br>
- <br></br>
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wjs2063&&show_icons=true&theme=dark)
+ Hyundai AutoEver 2023.07 (AI Technology Team) ~
  
  
 
