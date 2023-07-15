@@ -29,7 +29,7 @@
 
 
 ## [경력]
- Hyundai AutoEver 2023.07 (AI Technology Team) ~
+ Hyundai AutoEver(AI Technology Team) 2023.07 ~ 
  
  
 
