@@ -31,7 +31,4 @@
 ## [경력]
  Hyundai AutoEver(AI Technology Team) 2023.07 ~ 
  
- 
 
-
-contact : wjs2063@naver.com
