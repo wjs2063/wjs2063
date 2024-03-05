@@ -17,18 +17,5 @@
 
 
  
-## [BaekJoon Hub]
- 
- 알고리즘 문제풀이
- https://github.com/wjs2063/BaekJoon
- 
- 
- https://github.com/wjs2063/leethub
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jahy5352)](https://solved.ac/jahy5352/)
-
-
-## [경력]
- Hyundai AutoEver(AI Technology Team) 2023.07 ~ 
  
 
